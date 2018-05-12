@@ -1,0 +1,40 @@
+_repo: The-Collected-Writing-of-Thomas-De-Quincey-Vol.-II_42909
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Quincey, Thomas
+    aliases:
+    - Kvinsi, Tomas de
+    - Quincy, Thomas de
+    - DeQuincey, Thomas
+    - Quincey, Thomas de
+    birthdate: 1785
+    deathdate: 1859
+    gutenberg_agent_id: '797'
+    url: http://www.gutenberg.org/2009/agents/797
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_de_Quincey
+  editor:
+    agent_name: Masson, David
+    birthdate: 1822
+    deathdate: 1907
+    gutenberg_agent_id: '2064'
+    url: http://www.gutenberg.org/2009/agents/2064
+    wikipedia: http://en.wikipedia.org/wiki/David_Masson
+description: ''
+gutenberg_issued: '2013-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42909'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- 19th century'
+- !lcsh 'De Quincey, Thomas, 1785-1859'
+- !lcc 'PR'
+title: The Collected Writing of Thomas De Quincey, Vol. II
+url: http://www.gutenberg.org/ebooks/42909
